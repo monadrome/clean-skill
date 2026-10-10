@@ -1,0 +1,25 @@
+SKILL.md
+  s_36e04cd0fc4a6b::t_146729d53fed4d 80
+  s_36e04cd0fc4a6b::t_4aa44f7350164b 94
+  s_36e04cd0fc4a6b::t_4a5637eae3bfb7 97-98
+  s_36e04cd0fc4a6b::t_bf1e3b846e06e1 55
+  s_36e04cd0fc4a6b::t_5da40822654920 137
+  s_36e04cd0fc4a6b::t_ff303eb6aeac3b 155
+  s_36e04cd0fc4a6b::t_87b9c010e6a71e 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "0b9e795495fa5554fdd9861857a1abc82872ffa8",
+  "prompts": {},
+  "sessions": {
+    "s_36e04cd0fc4a6b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46e4ff9d-2780-407a-9228-90af9b1d2a7f",
+        "model": "unknown"
+      },
+      "human_author": "EricLin <linqinghua4@gmail.com>"
+    }
+  }
+}
