@@ -1,0 +1,19 @@
+SKILL.md
+  s_36e04cd0fc4a6b::t_f330b635aca2bb 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "a7b26db04c4ade78201ad90cf5abf586e258e9e9",
+  "prompts": {},
+  "sessions": {
+    "s_36e04cd0fc4a6b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46e4ff9d-2780-407a-9228-90af9b1d2a7f",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "EricLin <linqinghua4@gmail.com>"
+    }
+  }
+}
